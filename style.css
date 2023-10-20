@@ -1,0 +1,39 @@
+#website-title {
+    font-size: 128px;
+    color: red;
+    text-align: center;
+    font-weight: 800;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.font-bold {
+    font-weight: 800;
+}
+
+#second {
+    border: 2px red solid;
+    padding: 100px 40px;
+    margin: 150px 0px;
+    display: inline-block;
+    width: 500px;
+}
+
+span {
+    font-size: 64px;
+}
+
+.big {
+    font-size: 128px;
+}
+
+.container {
+    border: 2px blue solid;
+    padding: 25px 100px;
+}
